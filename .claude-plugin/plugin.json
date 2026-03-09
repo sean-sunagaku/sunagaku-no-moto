@@ -1,0 +1,8 @@
+{
+  "name": "sunagaku-no-moto",
+  "version": "1.0.0",
+  "description": "入れるだけでスナガク味。Slidevでスナガク流プレゼンテーションを再現するスキルパック。グラデーションタイトル、border-leftカードパターン、3色カラーパレット、共通アセット、プレゼンターノート同期を網羅。",
+  "author": { "name": "sunagaku" },
+  "license": "MIT",
+  "keywords": ["slidev", "presentation", "slides", "LT", "markdown", "seriph", "sunagaku"]
+}
